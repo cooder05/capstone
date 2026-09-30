@@ -37,3 +37,9 @@ Ensure your Arduino is connected and mapped to **`COM3`** before running any scr
    ```bash
    python live_3dmap.py
    ```
+
+6. **Dual-Modal Edge Dashboard**
+   A multi-panel command center that prototypes the final mmWave logic, splitting spatial dwell-time analytics and vital sign monitoring.
+   ```bash
+   python dashboard.py
+   ```
